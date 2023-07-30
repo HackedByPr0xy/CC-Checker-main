@@ -17,9 +17,9 @@ Credit Card Checker is a tool that allows users to verify the validity of credit
 [![TikTok](https://img.shields.io/badge/Follow-TikTok-red?logo=tiktok)](https://www.tiktok.com/@cityofcard)
 [![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/CityOfCard)
 
-## Support TgScrape Development
+## Support Cc-Checker Development
 
-If you find TgScrape helpful, consider supporting its development by making a donation:
+If you find Cc-Checker helpful, consider supporting its development by making a donation:
 
 - Bitcoin (BTC): [![Donate with Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-orange?logo=bitcoin)](bc1qkuh0p55ajrd8lh2a6vtrml6k59ygt0zpmcemhx)
 - PayPal: [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/PersonalPr0xy)
