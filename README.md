@@ -13,7 +13,13 @@ Credit Card Checker is a tool that allows users to verify the validity of credit
 
 ## Links
 
-- `[Discord](https://dsc,gg/Pr0xyArmyFans)`: Join our Discord community to stay updated on news, discussions, and support.
-- `[TikTok](https://www.tiktok.com/cityofcard)`: Follow our fun and informative videos on TikTok.
-- `[Telegram](https://t.me/CityOfCard)`: Join our Telegram channel for regular updates and announcements.
+[![Discord](https://img.shields.io/badge/Join-Discord-brightgreen?logo=discord)](https://discord.gg/Pr0xyArmyFans)
+[![TikTok](https://img.shields.io/badge/Follow-TikTok-red?logo=tiktok)](https://www.tiktok.com/cityofcard)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/CityOfCard)
 
+## Support TgScrape Development
+
+If you find TgScrape helpful, consider supporting its development by making a donation:
+
+- Bitcoin (BTC): [![Donate with Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-orange?logo=bitcoin)](bc1qkuh0p55ajrd8lh2a6vtrml6k59ygt0zpmcemhx)
+- PayPal: [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/PersonalPr0xy)
