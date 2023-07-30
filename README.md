@@ -13,14 +13,7 @@ Credit Card Checker is a tool that allows users to verify the validity of credit
 
 ## Links
 
-- `[Discord](https://discord.com/your_discord_link)`: Join our Discord community to stay updated on news, discussions, and support.
-- `[TikTok](https://www.tiktok.com/your_tiktok_link)`: Follow our fun and informative videos on TikTok.
-- `[Telegram](https://t.me/your_telegram_link)`: Join our Telegram channel for regular updates and announcements.
+- `[Discord](https://dsc,gg/Pr0xyArmyFans)`: Join our Discord community to stay updated on news, discussions, and support.
+- `[TikTok](https://www.tiktok.com/cityofcard)`: Follow our fun and informative videos on TikTok.
+- `[Telegram](https://t.me/CityOfCard)`: Join our Telegram channel for regular updates and announcements.
 
-## Contributions and Collaboration
-
-If you have any ideas, suggestions, or want to contribute to the development of the Credit Card Checker, we welcome your contributions. Please read our `[Contribution Guide](CONTRIBUTING.md)` for more information.
-
-## License
-
-Credit Card Checker is licensed under the `[MIT License](LICENSE)`. You are free to use, modify, and distribute it as per your needs.
