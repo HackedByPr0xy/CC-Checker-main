@@ -3,7 +3,7 @@ import emoji
 import os
 
 def luhn_algorithm_check(card_number):
-    card_number = re.sub(r'\D', '', card_number)  # Remove any non-digit characters
+    card_number = re.sub(r'\D', '', card_number)
     if not card_number.isdigit():
         return emoji.emojize(":x:")
 
@@ -18,13 +18,10 @@ def luhn_algorithm_check(card_number):
     return emoji.emojize("✅") if total % 10 == 0 else emoji.emojize("❌")
 
 def get_credit_card_info(card_number):
-    # Assuming card_number is a string containing only digits
     card_length = len(card_number)
 
-    # Get MII (Major Industry Identifier)
     mii = card_number[0]
 
-    # Define MII categories
     mii_categories = {
         '0': "ISO/TC 68 and other future industry assignments",
         '1': "Airlines",
@@ -40,7 +37,7 @@ def get_credit_card_info(card_number):
 
     # Get Bank Name and Bank Country
     bank_info = {
-        # BIN (Bank/Issuer Identification Number) : (Bank Name, Bank Country)
+
             '377750': ('Banco Internacional del Perú (Interbank)', 'Country'),
     '377753': ('Banco Internacional del Perú (Interbank)', 'Country'),
     '370244': ('Venezuela.', 'Country'),
@@ -217,7 +214,7 @@ def get_credit_card_info(card_number):
     '677518': ('Moscow Metro Express Card/Maestro debit card', 'Country'),
     '677574': ('Maestro debit card', 'Country'),
     '677594': ('Maestro debit card', 'Country'),
-        # Add more BINs and corresponding bank information as needed
+
     }
 
     bin_iin = card_number[:6]
@@ -226,11 +223,10 @@ def get_credit_card_info(card_number):
     else:
         bank_name, bank_country = "Unknown Bank", "Unknown Country"
 
-    # Get PAN (Primary Account Number) and Network/Brand
     pan = card_number[6:-1]
     network_brand = "Unknown Network/Brand"
 
-    # Add more card number patterns and their corresponding network/brand as needed
+
     network_patterns = {
         '4': "Visa",
         '5': "Mastercard",
@@ -250,7 +246,7 @@ def get_credit_card_info(card_number):
         "Network/Brand": network_brand,
     }
 
-# Test the function with a sample credit card number
+
 os.system("cls")
 print("""
   /$$$$$$   /$$$$$$         /$$$$$$  /$$                           /$$      
