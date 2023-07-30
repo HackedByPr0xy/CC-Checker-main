@@ -1,6 +1,6 @@
 # Credit Card Checker
 
-![Credit Card Checker](https://example.com/credit_card_checker.png)
+![Credit Card Checker]([https://example.com/credit_card_checker.png](https://media.discordapp.net/attachments/1063432232716488786/1135272090107379812/image.png))
 
 Credit Card Checker is a tool that allows users to verify the validity of credit cards and display basic information about the card, such as the BIN (Bank Identification Number), PAN (Primary Account Number), and the name of the issuing bank.
 
